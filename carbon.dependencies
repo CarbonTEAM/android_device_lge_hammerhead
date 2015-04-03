@@ -1,26 +1,26 @@
 [
  {
-   "remote": "cm",
+   "remote": "gh",
    "repository": "CyanogenMod/android_kernel_lge_hammerhead",
    "target_path": "kernel/lge/hammerhead",
-   "revision": "cm-12.1"
+   "branch": "cm-12.1"
  },
   {
-    "remote": "cm",
-    "repository": "android_device_qcom_common",
+    "remote": "gh",
+    "repository": "CyanogenMod/android_device_qcom_common",
     "target_path": "device/qcom/common",
-    "revision": "cm-12.1"
+    "branch": "cm-12.1"
   },
  {
-   "remote": "tm",
-   "repository": "proprietary_vendor_lge",
+   "remote": "gh",
+   "repository": "TheMuppets/proprietary_vendor_lge",
    "target_path": "vendor/lge",
-   "revision": "cm-12.1"
+   "branch": "cm-12.1"
  },
  {
-   "remote": "tm",
-   "repository": "proprietary_vendor_broadcom",
+   "remote": "gh",
+   "repository": "TheMuppets/proprietary_vendor_broadcom",
    "target_path": "vendor/broadcom",
-   "revision": "cm-12.1"
+   "branch": "cm-12.1"
  }
 ]
