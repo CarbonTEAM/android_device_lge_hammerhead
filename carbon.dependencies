@@ -1,15 +1,21 @@
 [
  {
-   "remote": "cm",
+   "remote": "ste",
    "repository": "android_kernel_lge_hammerhead",
    "target_path": "kernel/lge/hammerhead",
-   "revision": "cm-12.1"
+   "revision": "ElementalX-4.00"
  },
   {
     "remote": "cm",
     "repository": "android_device_qcom_common",
     "target_path": "device/qcom/common",
     "revision": "cm-12.1"
+  },
+  {
+    "remote": "gh",
+    "repository": "ArchiDroid/Toolchain",
+    "target_path": "prebuilts/gcc/linux-x86/arm/linaro-4.9-arm-eabi",
+    "revision": "linaro-4.9-arm-eabi"
   },
  {
    "remote": "tm",

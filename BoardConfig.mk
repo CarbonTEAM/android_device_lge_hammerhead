@@ -109,8 +109,9 @@ BOARD_SEPOLICY_DIRS += \
        device/lge/hammerhead/sepolicy
 
 # Define kernel config for inline building
-TARGET_KERNEL_CONFIG := cyanogenmod_hammerhead_defconfig
+TARGET_KERNEL_CONFIG := elementalx_defconfig
 TARGET_KERNEL_SOURCE := kernel/lge/hammerhead
+KERNEL_TOOLCHAIN := "$(ANDROID_BUILD_TOP)/prebuilts/gcc/$(HOST_OS)-x86/arm/linaro-4.9-arm-eabi/bin/"
 
 # The list below is order dependent
 BOARD_SEPOLICY_UNION += \
