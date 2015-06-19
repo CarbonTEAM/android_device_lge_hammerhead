@@ -325,7 +325,4 @@
          config to 7. -->
     <integer name="config_deviceHardwareWakeKeys">64</integer>
 
-    <!-- Hardware keys on/off option -->
-    <bool name="config_hwKeysPref">true</bool>
-
 </resources>
