@@ -1,7 +1,7 @@
 [
  {
-   "remote": "ste",
-   "repository": "android_kernel_lge_hammerhead",
+   "remote": "carbon",
+   "repository": "CarbonTEAM/android_kernel_lge_hammerhead",
    "target_path": "kernel/lge/hammerhead",
    "revision": "ElementalX-4.00"
  },
