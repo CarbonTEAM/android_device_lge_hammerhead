@@ -1,13 +1,13 @@
 [
  {
    "remote": "carbon",
-   "repository": "CarbonTEAM/android_kernel_lge_hammerhead",
+   "repository": "CarbonROM/android_kernel_lge_hammerhead",
    "target_path": "kernel/lge/hammerhead",
    "revision": "ElementalX-4.00"
  },
   {
     "remote": "cm",
-    "repository": "android_device_qcom_common",
+    "repository": "Cyanogenmod/android_device_qcom_common",
     "target_path": "device/qcom/common",
     "revision": "cm-12.1"
   },
