@@ -3,7 +3,7 @@
    "remote": "carbon",
    "repository": "CarbonROM/android_kernel_lge_hammerhead",
    "target_path": "kernel/lge/hammerhead",
-   "revision": "ElementalX-4.00"
+   "revision": "lp5.1.1"
  },
   {
     "remote": "cm",
